@@ -1,0 +1,12 @@
+{
+  "provider": "autogen_agentchat.agents.UserProxyAgent",
+  "component_type": "agent",
+  "version": 1,
+  "component_version": 1,
+  "description": "An agent that can represent a human user through an input function.",
+  "label": "UserProxyAgent",
+  "config": {
+    "name": "user",
+    "description": "A human user"
+  }
+}
